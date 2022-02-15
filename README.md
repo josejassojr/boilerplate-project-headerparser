@@ -1,6 +1,6 @@
 # Jose Jasso Jr. | Header Parser Microservice
 
-A microservice designed to return information of an http request made by the server!
+A microservice designed to return header information of an http request made by the server!
 
 ## Techs Used
 
